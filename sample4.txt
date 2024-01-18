@@ -1,1 +1,5 @@
+
 hi master
+=======
+hi added in branch 2
+>>>>>>> branch2
